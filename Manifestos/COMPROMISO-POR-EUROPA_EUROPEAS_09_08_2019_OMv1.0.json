@@ -9,7 +9,7 @@
     "URI": "",
     "created_by": "Open Manifesto Project",
     "pages": "61",
-    "num_proposals": "165",
+    "num_proposals": "164",
     "proposals": [
         {
             "id": 1,
@@ -5946,32 +5946,6 @@
                 "todas",
                 "lenguas",
                 "empezando"
-            ],
-            "priority": "",
-            "budget": "",
-            "non-negotiable": "",
-            "agents": ""
-        },
-        {
-            "id": 166,
-            "body": "Informar y denunciar en las instituciones europeas todas aquellas agresiones lingüísticas que durante los últimos años sufre nuestro pueblo.",
-            "topics": [
-                "Legislación y justicia",
-                "Cultura y ocio"
-            ],
-            "tags": [
-                "informar",
-                "denunciar",
-                "instituciones",
-                "europeas",
-                "todas",
-                "aquellas",
-                "agresiones",
-                "lingüísticas",
-                "últimos",
-                "años",
-                "sufre",
-                "pueblo"
             ],
             "priority": "",
             "budget": "",
